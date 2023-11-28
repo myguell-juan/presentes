@@ -1,0 +1,33 @@
+/* Estilos para o catálogo de presentes */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #0c192c;
+}
+
+h1 {
+    color: #f7f5f5;
+}
+
+.present {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    max-width: 200px;
+}
+
+.present img {
+    max-width: 100%;
+}
+
+.selected {
+    background-color: #f0f0f0;
+}
+
+button {
+    box-shadow: #ccc;
+}
