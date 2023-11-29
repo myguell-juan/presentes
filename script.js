@@ -11,6 +11,8 @@ const presents = [
     { name: "Blusa Dryfit", image: "img/Imagem do WhatsApp de 2023-11-28 à(s) 19.24.23_be7abc05.jpg" },
     { name: "Blusa Dryfit", image: "img/Imagem do WhatsApp de 2023-11-28 à(s) 19.24.23_ca51a429.jpg" },
     { name: "Blusa Dryfit", image: "img/Imagem do WhatsApp de 2023-11-28 à(s) 19.24.23_e0ae1517.jpg" },
+    { name: "Blusa Dryfit", image: "img/Imagem do WhatsApp de 2023-11-29 à(s) 19.35.02_d1bf6708.jpg" },
+    { name: "Blusa Dryfit", image: "img/Imagem do WhatsApp de 2023-11-29 à(s) 19.35.02_9743bc9d.jpg" },
 ];
 
 function displayPresents() {
